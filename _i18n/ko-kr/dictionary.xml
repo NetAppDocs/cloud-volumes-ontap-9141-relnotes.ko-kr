@@ -761,4 +761,12 @@ HA 쌍: ^1^의 노드에서 18개</block>
   <block id="5313a9ac102424f63dd4d76f5280130e" category="sidebar">AWS의 제한</block>
   <block id="1fff298355326f8c77bd77059a41c1a2" category="sidebar">Azure의 제한</block>
   <block id="9a3a0c4b2afbb088e029484d4b34ba8b" category="sidebar">Google Cloud의 제한 사항</block>
+  <block id="66180e9a57ad4027234d8183446c7a04" category="section-title">9.14.1 P5(2024년 7월 3일)</block>
+  <block id="e1f03013c61788fb5e2f4ed607635c9e" category="paragraph">이제 모든 클라우드 공급자에 대해 Cloud Volumes ONTAP에서 9.14.1 P5 패치를 사용할 수 있습니다. BlueXP는 기존 시스템을 이 패치 릴리즈로 업그레이드하라는 메시지를 표시합니다.</block>
+  <block id="e890150484086859b9a5078abe9c6f20" category="inline-link">P5 패치에서 수정된 버그 목록을 봅니다</block>
+  <block id="41bc1b68f5f6d85777fccab5ddee8ac6" category="paragraph"><block ref="925a0a2220d407e02dfef5e108b8697f" category="inline-link-rx"></block> (NetApp 지원 사이트에 로그인 필요).</block>
+  <block id="4ab1c34741185cd80489b44a40b814b1" category="section-title">9.14.1 P4(2024년 7월 3일)</block>
+  <block id="837904c1ddf0b7876964700c1d566165" category="paragraph">이제 모든 클라우드 공급자에 대해 Cloud Volumes ONTAP에서 9.14.1 P4 패치를 사용할 수 있습니다. BlueXP는 기존 시스템을 이 패치 릴리즈로 업그레이드하라는 메시지를 표시합니다.</block>
+  <block id="cae74b75cb879fa6011c4bc1e9acafed" category="inline-link">P4 패치에서 수정된 버그 목록을 봅니다</block>
+  <block id="dc033fa9dc958e07ea76e8e2612bbe5a" category="paragraph"><block ref="3204441b14795bb980671e5731eb2ab7" category="inline-link-rx"></block> (NetApp 지원 사이트에 로그인 필요).</block>
 </blocks>
