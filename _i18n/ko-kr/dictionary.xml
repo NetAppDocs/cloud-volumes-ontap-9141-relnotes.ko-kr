@@ -769,4 +769,8 @@ HA 쌍: ^1^의 노드에서 18개</block>
   <block id="837904c1ddf0b7876964700c1d566165" category="paragraph">이제 모든 클라우드 공급자에 대해 Cloud Volumes ONTAP에서 9.14.1 P4 패치를 사용할 수 있습니다. BlueXP는 기존 시스템을 이 패치 릴리즈로 업그레이드하라는 메시지를 표시합니다.</block>
   <block id="cae74b75cb879fa6011c4bc1e9acafed" category="inline-link">P4 패치에서 수정된 버그 목록을 봅니다</block>
   <block id="dc033fa9dc958e07ea76e8e2612bbe5a" category="paragraph"><block ref="3204441b14795bb980671e5731eb2ab7" category="inline-link-rx"></block> (NetApp 지원 사이트에 로그인 필요).</block>
+  <block id="681af8c647abc40504ff9a9c72a2cd96" category="section-title">9.14.1 P6(2024년 7월 18일)</block>
+  <block id="94a5465e8be6f23cc0181f68d678ef00" category="paragraph">이제 모든 클라우드 공급자에 대해 Cloud Volumes ONTAP에서 9.14.1 P6 패치를 사용할 수 있습니다. BlueXP는 기존 시스템을 이 패치 릴리즈로 업그레이드하라는 메시지를 표시합니다.</block>
+  <block id="4d90d21642c7222312363da000d7409f" category="inline-link">P6 패치에서 수정된 버그 목록을 봅니다</block>
+  <block id="bc5568aec017ad2e5cf0a5e90091f4c6" category="paragraph"><block ref="c6ea3d1829515f9d3bb15b101f831fb6" category="inline-link-rx"></block> (NetApp 지원 사이트에 로그인 필요).</block>
 </blocks>
