@@ -773,4 +773,8 @@ HA 쌍: ^1^의 노드에서 18개</block>
   <block id="4d90d21642c7222312363da000d7409f" category="inline-link">P6 패치에서 수정된 버그 목록을 봅니다</block>
   <block id="bc5568aec017ad2e5cf0a5e90091f4c6" category="paragraph"><block ref="c6ea3d1829515f9d3bb15b101f831fb6" category="inline-link-rx"></block> (NetApp 지원 사이트에 로그인 필요).</block>
   <block id="b710bbf07a9ba1fa06f2e6f4e77a42db" category="paragraph">아래 표에 표시된 대역폭 은 각 인스턴스 유형에 대해 문서화된 AWS 제한과 일치합니다. 이러한 제한은 Cloud Volumes ONTAP이 제공할 수 있는 것과 완전히 일치하지는 않습니다. 예상 성능은 을<block ref="c23654021de34c23e6d408104aa3bf49" category="inline-link-rx"></block>참조하십시오.</block>
+  <block id="890194399bbc46a6d256318488025c18" category="section-title">9.14.1 P7(2024년 8월 29일)</block>
+  <block id="85575f1cf17c6f7c0cff15bbac0fda4b" category="paragraph">이제 모든 클라우드 공급자에 대해 Cloud Volumes ONTAP에서 9.14.1 P7 패치를 사용할 수 있습니다. BlueXP는 기존 시스템을 이 패치 릴리즈로 업그레이드하라는 메시지를 표시합니다.</block>
+  <block id="7fa6a95154192207488dcc8bf13f9366" category="inline-link">P7 패치에서 수정된 버그 목록을 봅니다</block>
+  <block id="d02197ad3a3d980855960fa6ac44486e" category="paragraph"><block ref="dfa426c84f3d8dcbde32f8f8c07879b3" category="inline-link-rx"></block> (NetApp 지원 사이트에 로그인 필요).</block>
 </blocks>
