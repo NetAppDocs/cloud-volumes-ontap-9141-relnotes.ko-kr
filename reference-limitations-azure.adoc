@@ -41,4 +41,4 @@ BlueXP에서 볼륨을 생성할 때 스토리지 효율성을 선택하지 않�
 
 일부 지역에서는 HA 쌍이 지원되지 않습니다.
 
-https://cloud.netapp.com/cloud-volumes-global-regions["지원되는 Azure 지역 목록을 봅니다"^].
+https://bluexp.netapp.com/cloud-volumes-global-regions["지원되는 Azure 지역 목록을 봅니다"^]..
