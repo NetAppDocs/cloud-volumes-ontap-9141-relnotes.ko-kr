@@ -790,4 +790,8 @@ HA 쌍: ^1^의 노드에서 18개</block>
   <block id="f0de068c81c765820aca0fa8fe017396" category="paragraph">Azure 지역 지원에 대해서는 을<block ref="e55b14db85f4d4837890e415926626e0" category="inline-link-rx"></block>참조하십시오.</block>
   <block id="9b986795dc6a434c7339bfecbd5e5c8b" category="paragraph">Google Cloud 지역 지원은 을 참조하십시오<block ref="e55b14db85f4d4837890e415926626e0" category="inline-link-rx"></block>.</block>
   <block id="d798d4963d0ac509a1bda5483d9b9a52" category="paragraph"><block ref="5a94f18247116693735ff13d8eeaa964" category="inline-link-rx"></block>..</block>
+  <block id="6fa1e8d083b895fd6fbe5cfc2f6aa31c" category="section-title">9.14.1 P11(2025년 3월 10일)</block>
+  <block id="0ca5637d58b3091aee2c805b574d9b5b" category="paragraph">이제 모든 클라우드 공급자에 대해 Cloud Volumes ONTAP에서 9.14.1 P11 패치를 사용할 수 있습니다. BlueXP는 기존 시스템을 이 패치 릴리즈로 업그레이드하라는 메시지를 표시합니다.</block>
+  <block id="4d51ff14f4691186785e9ce841b8db7c" category="inline-link">P11 패치에서 수정된 버그 목록을 봅니다</block>
+  <block id="e388af5805a8702dc322460fd1cdc0c7" category="paragraph"><block ref="629011122d078f715e821ec2982a064c" category="inline-link-rx"></block> (NetApp 지원 사이트에 로그인 필요).</block>
 </blocks>
